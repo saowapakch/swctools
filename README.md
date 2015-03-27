@@ -1,0 +1,2 @@
+# swctools
+Software Carpentry Workshop
